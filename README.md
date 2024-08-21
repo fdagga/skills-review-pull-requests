@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Reviw pull requests
+# Revi pull requests
 
 _Collaborate and work together on GitHub._
 
