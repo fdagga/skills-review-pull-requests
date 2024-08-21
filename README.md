@@ -7,11 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-<<<<<<< HEAD
-# Revi pull requests
-=======
 # Please Review pull requests
->>>>>>> main
 
 _Collaborate and work together on GitHub._
 
